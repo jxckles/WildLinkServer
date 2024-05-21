@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildLinkServer", "WildLinkServer\WildLinkServer.csproj", "{9D7E45AB-E361-408A-83DC-FD620E8BE0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7E45AB-E361-408A-83DC-FD620E8BE0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7E45AB-E361-408A-83DC-FD620E8BE0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7E45AB-E361-408A-83DC-FD620E8BE0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7E45AB-E361-408A-83DC-FD620E8BE0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E6F1BE-1BA8-4698-9733-734954F64108}
+	EndGlobalSection
+EndGlobal
